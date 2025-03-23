@@ -1634,6 +1634,24 @@ h1 {
   margin-bottom: 20px;
 }
 
+.perroPenoso .perroPenosoImg{
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 0;
+  right: 0;
+}
+
+
+.perroPenoso .txtPerro{
+  position: absolute;
+  color: white;
+  top: 110px;
+  right: 15px;
+  font-size: 13px;
+  text-align: center;
+}
+
 /* Media Queries para tamaños de pantalla diferentes */
 @media screen and (max-width: 600px) {
   /* Estilos para pantallas pequeñas */
